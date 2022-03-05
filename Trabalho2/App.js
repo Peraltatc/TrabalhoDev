@@ -74,4 +74,4 @@ class app1 extends Component{
  })
 }
  
-export default app1;
+export default Trabalho2;
