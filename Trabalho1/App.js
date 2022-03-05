@@ -60,4 +60,4 @@ class app1 extends Comment{
     }
   });
 }
-export default Trabalho1;
+export default app1;
