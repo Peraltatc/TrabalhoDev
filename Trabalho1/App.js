@@ -29,7 +29,7 @@ class app1 extends Comment{
   const = Style = StyleSheet.create({
     conteiner:{
       flex:1,
-      backgroundColor: '#171d51'
+      backgroundColor: '#f191'
     },
     title:{
       marginTop:10,
@@ -42,7 +42,7 @@ class app1 extends Comment{
       position:"absolute",
       width: 60,
       height: 60,
-      backgroundColor:'#0094FF',
+      backgroundColor:'#000',
       alignItems: 'center',
       justifyContent:'center',
       borderRadius:30,
@@ -50,9 +50,9 @@ class app1 extends Comment{
       bottom:25,
       elevation:2,
       zIndex:9,
-      shadowColor:'#000000',
+      shadowColor:'#fff',
       shadowOpacity:0.2,
-      
+
       shadowOffset:{
       width: 1,
       height: 3,
