@@ -25,10 +25,10 @@ class app extends Comment{
           </View>
           <View style ={Style.content}>
             <image Style = {Style.image}>
-              source ={require('./assets/imagens-surreais')}
+              source ={require('./assets/Imagem-de-Homem-Aranha-PNG-824x1024')}
             </image>
             <Image Style = {Style.image}>
-              source ={require('./assets/ebb161a1cb7c83273e0d6b379342c747')}
+              source ={require('./assets/image')}
             </Image>
           </View>
   
